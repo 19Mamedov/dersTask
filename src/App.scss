@@ -82,9 +82,18 @@
    
   }
   .inputs {
-    display: flex;
-    justify-content: center;
     input {
         margin-left: 50px;
     }
+  }
+
+  // Table
+  form {
+    margin-left: 40%;
+  }
+  table {
+    width: 1000px;
+    margin: 0 auto;
+    margin-top: 100px;
+    
   }

@@ -1,12 +1,6 @@
 {
   "users": [
     {
-      "id": "1",
-      "name": "Grilled Beef with potatoes",
-      "info": "Meat, Potatoes, Rice, Tomatoe",
-      "price": 29
-    },
-    {
       "id": "2",
       "name": "Soup With Vegetables And Meat",
       "info": "Meat, Potatoes, Rice, Tomatoe",
@@ -23,7 +17,12 @@
       "name": "Udon Noodles With Vegetables",
       "info": "Meat, Potatoes, Rice, Tomatoe",
       "price": 29
+    },
+    {
+      "id": "885e",
+      "name": "riyad",
+      "info": "salam",
+      "price": "546"
     }
-    
   ]
 }
